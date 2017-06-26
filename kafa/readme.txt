@@ -1,1 +1,1 @@
-1 kafa is  a jms framework use to p/sub message   
+1 kafa is  a jms framework use to pub/sub message   
